@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/02-spring-boot-rest-crud-employee.iml" filepath="$PROJECT_DIR$/.idea/02-spring-boot-rest-crud-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cruddemo/cruddemo.iml" filepath="$PROJECT_DIR$/cruddemo/cruddemo.iml" />
+    </modules>
+  </component>
+</project>
